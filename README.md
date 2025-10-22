@@ -8,7 +8,11 @@
 </p>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0XLEGENDX)
+<p align="center">
+  <img src="https://github-contributions-api.deno.dev/YOUR_GITHUB_USERNAME.svg" alt="github contribution graph"/>
+</p>
+
+
 
 
 
