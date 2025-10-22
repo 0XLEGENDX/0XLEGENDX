@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/AnuragTekam">
-    <img src="https://komarev.com/ghpvc/?username=AnuragTekam&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragTekam" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=AnuragTekam&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragTekam" /> -->
   </a>
 </p>
 
@@ -33,15 +33,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragTekam&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0XLEGENDX&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragTekam&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0XLEGENDX&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragTekam&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XLEGENDX&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -51,10 +51,10 @@
 <!-- Replace the repo names below with your actual pinned repos -->
 <p align="center">
   <a href="https://github.com/AnuragTekam/your-repo-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnuragTekam&repo=your-repo-1&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0XLEGENDX&repo=your-repo-1&theme=radical" />
   </a>
   <a href="https://github.com/AnuragTekam/your-repo-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnuragTekam&repo=your-repo-2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0XLEGENDX&repo=your-repo-2&theme=radical" />
   </a>
 </p>
 
