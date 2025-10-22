@@ -20,13 +20,14 @@
 
 ### 🛠️ Tech Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -49,14 +50,16 @@
 ### 📂 Pinned Projects
 
 <!-- Replace the repo names below with your actual pinned repos -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/AnuragTekam/your-repo-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0XLEGENDX&repo=your-repo-1&theme=radical" />
   </a>
   <a href="https://github.com/AnuragTekam/your-repo-2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0XLEGENDX&repo=your-repo-2&theme=radical" />
   </a>
-</p>
+</p> -->
+
+<p>Under Development...</p>
 
 ---
 
