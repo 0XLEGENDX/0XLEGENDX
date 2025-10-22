@@ -2,7 +2,7 @@
 <h3 align="center">A Backend Developer passionate about building efficient and scalable systems</h3>
 
 <p align="center">
-  <a href="https://github.com/AnuragTekam">
+  <a href="https://github.com/0XLEGENDX">
     <!-- <img src="https://komarev.com/ghpvc/?username=AnuragTekam&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragTekam" /> -->
   </a>
 </p>
@@ -14,7 +14,7 @@
 - 🔭 I’m currently focused on backend development and systems design  
 - ⚙️ I work with tools like **Node.js, Express, MongoDB, PostgreSQL, Docker, Redis**  
 - 🌱 I’m always learning and exploring deeper backend concepts like **microservices**, **event-driven architecture**, and **DevOps practices**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/anuragtekam/) or [anuragtekam@example.com](mailto:anuragtekam@example.com)
+- 📫 Reach me at: [LinkedIn]([https://www.linkedin.com/in/anuragtekam/](https://www.linkedin.com/in/anurag-tekam-21096b1a3/)) or [anuragtekam@example.com](mailto:anuragtekam0@gmail.com)
 
 ---
 
