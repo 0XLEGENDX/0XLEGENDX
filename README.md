@@ -7,6 +7,10 @@
   </a>
 </p>
 
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/0XLEGENDX/0XLEGENDX/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ### 👨‍💻 About Me
