@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently focused on backend development and systems design  
-- ⚙️ I work with tools like **Node.js, Express, MongoDB, PostgreSQL, Docker, Redis**  
+- ⚙️ I work with tools like **Python, FastAPI, Flask, PostgreSQL, Docker, Redis, Git, Langchain**  
 - 🌱 I’m always learning and exploring deeper backend concepts like **microservices**, **event-driven architecture**, and **DevOps practices**
 - 📫 Reach me at: [LinkedIn]([https://www.linkedin.com/in/anuragtekam/](https://www.linkedin.com/in/anurag-tekam-21096b1a3/)) or [anuragtekam@example.com](mailto:anuragtekam0@gmail.com)
 
