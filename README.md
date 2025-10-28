@@ -8,9 +8,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-contributions-api.deno.dev/0xlegendx.svg" alt="github contribution graph"/>
-</p>
+</p> -->
 
 
 
